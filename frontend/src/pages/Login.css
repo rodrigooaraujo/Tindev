@@ -33,4 +33,7 @@
     height: 48px;
     font-size: 16px;
     background: #DF4723;
+    font-weight: bold;
+    color: #FFF;
+    cursor: pointer;
 }
